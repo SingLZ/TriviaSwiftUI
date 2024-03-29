@@ -27,7 +27,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Answer choices jump around to make it harder for user to selected the correct one
 
 ## Video Walkthrough
 
