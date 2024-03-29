@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+[![Video Title](http://img.youtube.com/vi/HgGfsUqPhpY/0.jpg)](https://www.youtube.com/watch?v=HgGfsUqPhpY)
 
 
 ## Notes
