@@ -2,28 +2,28 @@
 
 Submitted by: **Lixing Zheng**
 
-**Trivia** is an app that ... [TODO] 
+**Trivia** is an app that allows users to answer question of different categories.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
-  - [ ] Number of questions
-  - [ ] Category of questions
-  - [ ] Difficulty of questions
-  - [ ] Type of questions (Multiple Choice or True False)
-- [ ] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
+- [x] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
+  - [x] Number of questions
+  - [x] Category of questions
+  - [x] Difficulty of questions
+  - [x] Type of questions (Multiple Choice or True False)
+- [x] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
   - Hint: For Card view visit your FlashCard app. List view is an equivalent to UITableView in UIKit. Much easier to use!
-- [ ] Selected choices are marked as user taps their choice (but answered is not presented yet!)
-- [ ] User can submit choices and is presented with a score on trivia game
+- [x] Selected choices are marked as user taps their choice (but answered is not presented yet!)
+- [x] User can submit choices and is presented with a score on trivia game
  
 The following **optional** features are implemented:
 
-- [ ] User has answer marked as correct or incorrect after submitting choices (alongside their score).
-- [ ] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
+- [x] User has answer marked as correct or incorrect after submitting choices (alongside their score).
+- [x] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
 The following **additional** features are implemented:
 
@@ -43,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Lixing Zheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
